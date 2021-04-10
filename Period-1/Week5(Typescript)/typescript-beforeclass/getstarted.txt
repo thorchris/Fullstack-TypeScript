@@ -1,0 +1,12 @@
+#Install typescript
+npm install -g typescript
+
+#Create typescript config file
+tsc -init
+
+#Watch (Auto update build folder)
+tsc watch 
+
+#Use build folder
+tsc 
+

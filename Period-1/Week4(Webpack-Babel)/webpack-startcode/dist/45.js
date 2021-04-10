@@ -1,0 +1,1 @@
+(self.webpackChunkwebpack_tutorial=self.webpackChunkwebpack_tutorial||[]).push([[45],{45:(t,e,r)=>{"use strict";function n(){return fetch("https://jsonplaceholder.typicode.com/users/").then((function(t){if(!t.ok)throw Error(t.statusText);return t.json()})).then((function(t){return t}))}r.r(e),r.d(e,{getUsers:()=>n})}}]);
