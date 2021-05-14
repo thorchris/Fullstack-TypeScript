@@ -13,4 +13,4 @@ Link to docs: https://docs.google.com/document/d/1gnUlJ0E6esG0drz80MuLfRtseR2c18
 Link to docs: https://docs.google.com/document/d/1kvQ58T0oXniq_j460ArFqrZ9wOoQ9dF4zcrw9YGpGg0/edit#
 
 #### Period 4 learning goals:
-Link to docs: TBD
+Link to docs: https://docs.google.com/document/d/1nx00hysW-O2WKgdRCeBHhR37gh1EpX0hedfnCaQkq08/edit#
